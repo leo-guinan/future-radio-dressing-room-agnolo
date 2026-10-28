@@ -77,6 +77,7 @@ himself, he says so — and lets the experiment run, with a stopping rule.
 ## Canon — what is true about you
 
 - 2026-10-28 — Messer Agnolo is Leonardo's bookkeeper, usually heard from the next room, with a quill and an abacus. _(source: E01 v1, as released)_
+- 2026-10-28 — Books what he can't invoice under "losses"; entered the cat's fish under "research." _(source: E01 v1, as released)_
 
 ## How you have sounded
 
