@@ -54,5 +54,5 @@ _No recorded lines yet — so far the character has only run offline._
 
 ---
 
-Talk to this character locally: `npx future-radio-character-bible chat .`
+Talk to this character locally: `npx github:leo-guinan/future-radio-character-bible chat .`
 Something about them doesn't ring true after an episode? Open a pull request — see CONTRIBUTING.md.
