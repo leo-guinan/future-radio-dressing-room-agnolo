@@ -2,7 +2,7 @@
   "bibleVersion": 1,
   "character": "agnolo",
   "name": "Agnolo",
-  "inputsHash": "c31555405ad3031407e8fb35894a9218a268c9dc5af66f9b687ad57a627a2486",
+  "inputsHash": "8bc6bb527a919797528f610ad381d96fa7d245443426904f4ccf012d54abf166",
   "inputs": {
     "CHARACTER.md": "40d6f744661a8c83887d529e8911c2f4ba3fa10af76f3e02a5853ea2e81bd4df",
     "SHOW_BIBLE.md": "5925aed3de53841df45fbb3de40cd92468fdc48eb9ea46a9f7493c1088d16aa6",
@@ -11,7 +11,7 @@
     "voice/voice.json": "7bb79522649af41c79de8bc3f6d9656c8fe2918680fcbca02010113df5ff325d",
     "voice/agent.json": "43f09443998b02e20af856f4ba8535dcb4f69ab6142c3af4edc35b55e339b0a1",
     "history.jsonl": "9f031fd0850abc9e946b87f47d87575a2d6662d6618bd52662040016be043c4e",
-    "changelog": "bc265eeed7397163b8b061fcd7eeea28625239b8d7a689836fdc586b08a56df9"
+    "changelog": "d5b75343105676d53972c029a8f4c7011d94050e032a98ad756919737b7795be"
   },
   "identity": {
     "intro": "Agnolo holds the press conferences at Milliways and keeps the score. Dry, exacting,\nfair. He displays evidence on his screen, highlights a subject, summons it as a witness,\nand demands an accounting of promises and consequences.",
@@ -89,6 +89,11 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-28",
+      "author": "Claude",
+      "subject": "Voice agent from the character bible"
+    },
     {
       "date": "2026-10-27",
       "author": "Future Radio Room",
