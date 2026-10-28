@@ -1,5 +1,8 @@
 {
   "character": "agnolo",
-  "provider": null,
-  "voice": null
+  "provider": "elevenlabs",
+  "name": "Old Italian Man angry and nostalgic",
+  "id": "s2wvuS7SwITYg8dqsJdn",
+  "kind": "library",
+  "direction": "played dry; muffled whenever he speaks from the next room"
 }

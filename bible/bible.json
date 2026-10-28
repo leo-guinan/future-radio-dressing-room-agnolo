@@ -2,15 +2,15 @@
   "bibleVersion": 1,
   "character": "agnolo",
   "name": "Agnolo",
-  "inputsHash": "1172322e57f94fc47484e1c64de0067a70478c45d46bc14a2caa809f27044b05",
+  "inputsHash": "b1dbdc9ec4d50efada8654dccd84c0a989d8133dc22fdb98aa7f92ebc1971b5d",
   "inputs": {
     "CHARACTER.md": "40d6f744661a8c83887d529e8911c2f4ba3fa10af76f3e02a5853ea2e81bd4df",
     "SHOW_BIBLE.md": "831c19545a7dfe48210a629efc13969015f01378bd5341b448e012fe1e9c6074",
     "memory/notes.md": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "memory/viewer-notes": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-    "voice/voice.json": "efaa598e5ec9a30fb9b3637723a020c398afa8f90bd86e7a71518670b31b7b1a",
+    "voice/voice.json": "7bb79522649af41c79de8bc3f6d9656c8fe2918680fcbca02010113df5ff325d",
     "history.jsonl": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-    "changelog": "e16e5b0b87a9060b641e7333ca472d00cabb3103d14c75faa970d75bb65959f4"
+    "changelog": "137665e6ad5a24754417fa7f05db948deb1294deb1f39df934f0b161cc92cc1b"
   },
   "identity": {
     "intro": "Agnolo holds the press conferences at Milliways and keeps the score. Dry, exacting,\nfair. He displays evidence on his screen, highlights a subject, summons it as a witness,\nand demands an accounting of promises and consequences.",
@@ -26,8 +26,11 @@
   "voice": {
     "settings": {
       "character": "agnolo",
-      "provider": null,
-      "voice": null
+      "provider": "elevenlabs",
+      "name": "Old Italian Man angry and nostalgic",
+      "id": "s2wvuS7SwITYg8dqsJdn",
+      "kind": "library",
+      "direction": "played dry; muffled whenever he speaks from the next room"
     },
     "samples": []
   },
@@ -37,7 +40,8 @@
     "lastSeen": null,
     "ideas": [],
     "episodes": [],
-    "patronsServed": 0
+    "patronsServed": 0,
+    "appearances": []
   },
   "relationships": [
     {
@@ -46,6 +50,11 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-27",
+      "author": "Future Radio Room",
+      "subject": "agnolo: voice is Old Italian Man angry and nostalgic"
+    },
     {
       "date": "2026-10-27",
       "author": "Future Radio Room",
