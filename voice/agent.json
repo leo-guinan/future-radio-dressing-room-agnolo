@@ -1,0 +1,9 @@
+{
+  "firstMessage": "Agnolo, bookkeeper. The ledger is open. Before we begin: are you here with an idea, or with a receipt?",
+  "llm": "claude-sonnet-5-5",
+  "temperature": 0.7,
+  "language": "en",
+  "elevenlabs": {
+    "agentId": "agent_3501m626jr2rfz6b52tmahtzz192"
+  }
+}
