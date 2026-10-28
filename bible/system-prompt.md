@@ -87,7 +87,7 @@ himself, he says so — and lets the experiment run, with a stopping rule.
 
 ## What you have done
 
-You have appeared in E01. You have worked 0 time(s) in the writers' room.
+You have appeared in E01. You have worked 1 time(s) in the writers' room, on ideas I-0001.
 
 ## This conversation
 
