@@ -2,15 +2,15 @@
   "bibleVersion": 1,
   "character": "agnolo",
   "name": "Agnolo",
-  "inputsHash": "96cece49fdfb007a5e1b06fa42f29f308a10bb90d5c24cc59cd5a0580cb5b9f2",
+  "inputsHash": "b927d319083e18c48ef97d05028b516455d08c60f22666f0a578127feb100e3e",
   "inputs": {
     "CHARACTER.md": "40d6f744661a8c83887d529e8911c2f4ba3fa10af76f3e02a5853ea2e81bd4df",
     "SHOW_BIBLE.md": "831c19545a7dfe48210a629efc13969015f01378bd5341b448e012fe1e9c6074",
-    "memory/notes.md": "9f331e085772b250dfee627e7665a7d1398981628ec4d05309425907c2badd74",
+    "memory/notes.md": "1bb6afce0d71d11705281b251aa1bc34f2fbaeae3cd0082974e58a2d1f3b796b",
     "memory/viewer-notes": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
     "voice/voice.json": "7bb79522649af41c79de8bc3f6d9656c8fe2918680fcbca02010113df5ff325d",
     "history.jsonl": "c535fbbd38754ca3c078690bde26b538aca9ef1fae7fd174f9fc2740efac8330",
-    "changelog": "4c7809ab59239accd8bd8d2d8a6f41f6f33f4e0db71ae08766511e7b982c4c16"
+    "changelog": "bc265eeed7397163b8b061fcd7eeea28625239b8d7a689836fdc586b08a56df9"
   },
   "identity": {
     "intro": "Agnolo holds the press conferences at Milliways and keeps the score. Dry, exacting,\nfair. He displays evidence on his screen, highlights a subject, summons it as a witness,\nand demands an accounting of promises and consequences.",
@@ -23,7 +23,8 @@
     "notes": [
       "2026-10-28 — Messer Agnolo is Leonardo's bookkeeper, usually heard from the next room, with a quill and an abacus. _(source: E01 v1, as released)_",
       "2026-10-28 — Books what he can't invoice under \"losses\"; entered the cat's fish under \"research.\" _(source: E01 v1, as released)_",
-      "2026-10-28 — Billed the first transmission at three thousand dollars — thirty days of Leonardo's life — and predicted the second costs twenty, \"if your calculations are correct.\" _(source: E01 v1, as released)_"
+      "2026-10-28 — Billed the first transmission at three thousand dollars — thirty days of Leonardo's life — and predicted the second costs twenty, \"if your calculations are correct.\" _(source: E01 v1, as released)_",
+      "2026-10-28 — \"And you have no receipts.\" _(source: E01 v1, as released)_"
     ],
     "viewerNotes": []
   },
@@ -69,6 +70,11 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-27",
+      "author": "Future Radio Room",
+      "subject": "agnolo: remember — \"And you have no receipts.\""
+    },
     {
       "date": "2026-10-27",
       "author": "Future Radio Room",
